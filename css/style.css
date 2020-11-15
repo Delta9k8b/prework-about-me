@@ -11,6 +11,7 @@ body {
 }
 
 .masthead {
+  border-radius: 10pt;
   padding: 6em 0;
   background-image: url('../img/code.jpg');
   background-size: cover;
